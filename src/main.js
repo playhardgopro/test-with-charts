@@ -3,7 +3,7 @@ import { Table } from 'buefy';
 import VeHistogram from 'v-charts/lib/histogram.common';
 import App from './App.vue';
 import store from './store';
-import 'buefy/dist/buefy.css';
+import './scss/main.scss';
 
 Vue.use(Table);
 Vue.component(VeHistogram.name, VeHistogram);
