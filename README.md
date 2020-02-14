@@ -1,6 +1,6 @@
 # Test with charts
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/459c5eec-7859-4405-bdeb-073d0eaa7006/deploy-status)](https://app.netlify.com/sites/test-with-charts/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0e52003d-5e3a-4d9f-bf39-808208e2ad2d/deploy-status)](https://app.netlify.com/sites/test-with-charts/deploys)
 
 ## Project setup
 
